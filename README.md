@@ -14,7 +14,7 @@ To install monitor-services, use the following steps:
    - logging
 2. Clone the monitor-services repository:
    ```
-   git clone https://github.com/CY83R-3X71NC710N/monitor-services.git
+   git clone https://github.com/ShadowStrikeHQ/monitor-services.git
    ```
 3. Install the monitor-services package:
    ```
